@@ -1,6 +1,6 @@
 # Completed Books
 
-This section contains all the books that I have read. There is a year wise division which you can find in this [link](/books.md).  
+This section contains all the books that I have read. There is a year wise division which you can find in this [link](books.md).  
 
 Books that I liked and recommend are marked in :star2:
 
