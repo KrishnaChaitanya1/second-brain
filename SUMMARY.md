@@ -15,6 +15,7 @@
   - [Experiment 1](experiments/experiments1.md)
   - [Experiment 2](experiments/experiments2.md)
 
-- [BITS](bits/bits.md)
-  - [Semester 1](bits/semester1.md)
-  - [Semester 2](bits/semester2.md)
+- [BITS](bitsnotes/bitsnotes.md)
+  - [Semester 1](bitsnotes/semester1.md)
+  - [Semester 2](bitsnotes/semester2.md)
+    - [Artificial and Computational Intelligence](semester2/aci.md)
