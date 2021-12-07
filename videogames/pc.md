@@ -48,19 +48,17 @@
 44. Scarlet Nexus
 45. The Ascent
 46. The Outer Worlds
+47. Nongunz: Doppelganger
 
 ## Playing
 
 1. Final Fantasy XIV
     - Played upto **Patch 3.3** I think.
 2. Halo Infinte
-    - Currently multiplayer only.
-    - Might play campaign once it drops on 8th December 2021.
 3. Cyberpunk 2077
     - Restarted the game after latest Patch.
-    - Didn't progress much, just completed the Prologue.
 4. Halo Master Chief Collection
-    - Playing Halo CE
+    - Playing Halo 3
 5. Age of Empires 2 - Definitive Edition
 6. Age of Empires 4
 7. My Friend Pedro
@@ -95,6 +93,9 @@
 23. Horizon Zero Dawn :star2:
 24. Doom
 25. What Remains of Edith Finch
+26. Halo Reach
+27. Halo CE
+28. Halo 2
 
 ## Parked
 
