@@ -18,4 +18,4 @@
 - [BITS](bitsnotes/bitsnotes.md)
   - [Semester 1](bitsnotes/semester1.md)
   - [Semester 2](bitsnotes/semester2.md)
-    - [Artificial and Computational Intelligence](semester2/aci.md)
+    - [Artificial and Computational Intelligence](bitsnotes/semester2/aci.md)
