@@ -12,10 +12,10 @@
   - [Nintendo Switch](videogames/switch.md)
 
 - [Experiments](experiments/experiments.md)
-  - [Experiment 1](experiments/experiments1.md)
-  - [Experiment 2](experiments/experiments2.md)
+  - [Experiment 1](experiments/experiment1.md)
+  - [Experiment 2](experiments/experiment2.md)
 
 - [BITS](bits/bits.md)
-  - [Semester 1](bits/semester-1.md)
-  - [Semester 2](bits/semester-2.md)
-    - [Artificial and Computational Intelligence](bits/semester-2/artificial-and-computational-intelligence.md)
+  - [Semester 1](bits/semester1/semester1.md)
+  - [Semester 2](bits/semester2/semester2.md)
+    - [Artificial and Computational Intelligence](bits/semester2/aci/aci.md)
