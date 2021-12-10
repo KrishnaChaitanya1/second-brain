@@ -19,3 +19,4 @@
   - [Semester 1](bits/semester1/semester1.md)
   - [Semester 2](bits/semester2/semester2.md)
     - [Artificial and Computational Intelligence](bits/semester2/aci/aci.md)
+    - [Introduction to Data Science](bits/semester2/ids/ids.md)
