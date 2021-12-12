@@ -49,6 +49,7 @@
 45. The Ascent
 46. The Outer Worlds
 47. Nongunz: Doppelganger
+48. Bindings of Issac
 
 ## Playing
 
@@ -57,11 +58,9 @@
 2. Halo Infinte
 3. Cyberpunk 2077
     - Restarted the game after latest Patch.
-4. Halo Master Chief Collection
-    - Playing Halo 3
-5. Age of Empires 2 - Definitive Edition
-6. Age of Empires 4
-7. My Friend Pedro
+4. Age of Empires 2 - Definitive Edition
+5. Age of Empires 4
+6. My Friend Pedro
 
 ## Completed
 
@@ -93,9 +92,12 @@
 23. Horizon Zero Dawn :star2:
 24. Doom
 25. What Remains of Edith Finch
-26. Halo Reach
-27. Halo CE
-28. Halo 2
+26. Halo Master Chief Collection
+    - Halo Reach
+    - Halo CE
+    - Halo 2
+    - Halo 3
+    - Halo 4
 
 ## Parked
 
