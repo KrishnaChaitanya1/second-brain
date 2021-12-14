@@ -38,18 +38,17 @@
 34. Mortal Shell
 35. Nier Automata
 36. Ori and the Will of Wisps
-37. Pillars of Eternity
-38. Pillars of Eternity II
-39. Psychonauts
-40. Psychonauts 2
-41. Raji
-42. Sable
-43. Spritifarer
-44. Scarlet Nexus
-45. The Ascent
-46. The Outer Worlds
-47. Nongunz: Doppelganger
-48. Bindings of Issac
+37. Pillars of Eternity II
+38. Psychonauts
+39. Psychonauts 2
+40. Raji
+41. Sable
+42. Spritifarer
+43. Scarlet Nexus
+44. The Ascent
+45. The Outer Worlds
+46. Nongunz: Doppelganger
+47. Bindings of Issac
 
 ## Playing
 
@@ -61,6 +60,7 @@
 4. Age of Empires 2 - Definitive Edition
 5. Age of Empires 4
 6. My Friend Pedro
+7. Pillars of Eternity
 
 ## Completed
 
