@@ -53,14 +53,20 @@
 ## Playing
 
 1. Final Fantasy XIV
-    - Played upto **Patch 3.3** I think.
+    - Playing Stormblood Expansion
 2. Halo Infinte
 3. Cyberpunk 2077
     - Restarted the game after latest Patch.
 4. Age of Empires 2 - Definitive Edition
 5. Age of Empires 4
-6. My Friend Pedro
+6. Warframe
 7. Pillars of Eternity
+8. The Witcher 3
+9. Deep Rock Galactic
+10. Timberborn
+11. Stardew Valley
+12. Dorfromantik
+13. Europa Universalis 4
 
 ## Completed
 
@@ -114,8 +120,6 @@
 10. Sekiro: Shadows Die Twice
 11. Shadow Tactics: Blades of Shogun
 12. Star Wars Jedi: Fallen Order
-13. Stardew Valley
-14. The Witcher 3: Wild Hunt
-15. Batman Arkham Asylum GOTY Edition
-16. Assassin's Creed Black Flag
-17. Hades
+13. Batman Arkham Asylum GOTY Edition
+14. Assassin's Creed Black Flag
+15. Hades

@@ -21,3 +21,5 @@
     - [Artificial and Computational Intelligence](bits/semester2/aci/aci.md)
     - [Introduction to Data Science](bits/semester2/ids/ids.md)
       - [Data Science Proposal](bits/semester2/ids/data-science-proposal.md)
+
+- [Useful Links](useful-links/useful-links.md)
