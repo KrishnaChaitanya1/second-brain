@@ -11,9 +11,13 @@
   - [Lecture Notes](https://drive.protonmail.com/urls/TWFS9296H0#WCfUuBMuFxL1)
 - [Module 4 - Data Science Process](https://drive.protonmail.com/urls/GST0KZT03C#CDk6QiNJLyDt)
 - [Module 5 - Data Science Proposal](https://drive.protonmail.com/urls/DSF9BY172C#3VqEfYiyX67p)
-  - [Lecture Notes](https://drive.protonmail.com/urls/TGVGBPA6ZM#m7SfhDalkc82)
+  - [Lecture Notes Part 1](https://drive.protonmail.com/urls/TGVGBPA6ZM#m7SfhDalkc82)
+  - [Lecture Notes Part 2](https://drive.protonmail.com/urls/XB58BHZYD0#L3jlH4rWIC0Y)
 - [Module 6 - Data Science Teams](https://drive.protonmail.com/urls/7DE8TG5RP8#NaSdwcxuRPp9)
   - [Lecture Notes](https://drive.protonmail.com/urls/GP7FX4F3SG#f7BN0Ut3TmDE)
+- [Module 7 - Data](https://drive.protonmail.com/urls/PG0EPCXGKM#M9PSJDTyrIGn)
+- [Module 8 - Data Models](https://drive.protonmail.com/urls/ND3VNHAN2G#gjyUtpni4slF)
+  - [Lecture Notes](https://drive.protonmail.com/urls/D2V35BVACM#77KEAlSQTxzk)
 
 ## Books
 
