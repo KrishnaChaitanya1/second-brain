@@ -15,6 +15,9 @@
   - [Experiment 1](experiments/experiment1.md)
   - [Experiment 2](experiments/experiment2.md)
 
+- [Machine Learning](machine-learning/machine-learning.md)
+  - [Dimensionality Reduction](machine-learning/dimensionality-reduction/dimensionality-reduction.md)
+
 - [BITS](bits/bits.md)
   - [Semester 1](bits/semester1/semester1.md)
   - [Semester 2](bits/semester2/semester2.md)

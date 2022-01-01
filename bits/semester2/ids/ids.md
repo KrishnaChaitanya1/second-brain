@@ -23,7 +23,7 @@
 
 - T1 - [**Introducing Data Science** by Davy Cielen, Meysman and Ali](https://drive.protonmail.com/urls/K22K6CCMRM#ircytq0Yh28a)
 - T2 - [**Storytelling with Data** by Cole Nussbaumer Knaflic](https://drive.protonmail.com/urls/QVM2TGQPR4#5ZGUwAtmgTxd)
-- T3 - **Introduction to Data Mining** by Tan :book:
+- T3 - [**Introduction to Data Mining** by Tan et.al](https://drive.protonmail.com/urls/QXHYYNRBK8#VCMN9lNxX5kK)
 - R1 - [**The Art of Data Science** by Roger D Peng](https://drive.protonmail.com/urls/YGV6DG1AY0#KgAAluGBVhi1)
 - R2 - [**Ethics and Data Science** by DJ Patil](https://read.amazon.in/?asin=B07GTC8ZN7)
 - R3 - [**Python Data Science Handbook** by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
